@@ -1,7 +1,6 @@
-A- 👋 Hi, I’m  Angelo Arevalo Laurente
-- 👀 I’m interested in ...
+- 👋Hola soy Angelo Arévalo Laurente
 - 🌱 I’m currently learning  Desarrollo Frontend
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on  un futuro en una empresa  de Desarrollo Frontend
 - 📫 How to reach me  aangelomarcial@gmail.com
 
 <!---
